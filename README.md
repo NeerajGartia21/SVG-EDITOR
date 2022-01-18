@@ -1,6 +1,6 @@
 # SVG-EDITOR
 
-[App Preview](https://zealous-perlman-1cec7f.netlify.app/)
+[App Preview](https://svg-editor-by-neeraj.netlify.app/)
 
 A SVG editor using SVG.js library and vanilla JS.
 
